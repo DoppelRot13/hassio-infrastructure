@@ -5,6 +5,7 @@ description: "CUPS printing system with Avahi for AirPrint/IPP and Web Admin"
 version: "1.4.3"
 arch:
   - aarch64
+  - amd64
 startup: services
 host_network: true
 init: false
